@@ -1,0 +1,8 @@
+
+1.1 (-0) 
+1.2 (-4) There is an error in the data processing, and the final figure is incorrect. Please make sure to use .groupby("time.month").mean(dim="time") to ensure the results are correct.
+
+1.3 (-1) The result appears to be incorrect because some time points in the deseasonalized series are NaN, yet they are still plotted in the figure. Please contact me if there is any disagreement.
+
+2. (-0) 
+3. (-0) 
